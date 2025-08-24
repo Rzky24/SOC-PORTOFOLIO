@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | SIEM Implementation and Phising Analysis                          | <a href="https://https://www.linkedin.com/posts/rizky-artadinata-jurit-putro-12a239163_rizkyarta24-was-awarded-a-badge-activity-7357354033319194624-laCC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACcC-HIBhLyaxhc_WaXYRMhCFnxaYrin_-Y">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection                   | <a href="https://https://www.linkedin.com/posts/rizky-artadinata-jurit-putro-12a239163_rizkyarta24-was-awarded-a-badge-activity-7363388798203805697-zFPP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACcC-HIBhLyaxhc_WaXYRMhCFnxaYrin_-Y">Detection Lab</a>|
-| Security Automation with Shuffle SOAR                             | SOC Automation Lab|
+| the Using Linux commands to manage file                           | <a href="https://docs.google.com/document/d/1FhQu7lY-oN9EFGv91SAwnqhR3yQ_xRgN_VKE_jBCnKM/edit?usp=sharing-Y">practice Lab</a>|
 | Incident Response Planning and Execution                          | SOC Automation Lab|
 | Case Management with TheHive                                      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation                    | SOC Automation Lab|
